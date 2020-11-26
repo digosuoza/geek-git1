@@ -1,4 +1,14 @@
 
-Qualquer texto
+#Qualquer texto
 
+fez um commit
+
++1 linha
+
+
+git revert <commit id>
+
+um novo commit
+
+- linha
 
